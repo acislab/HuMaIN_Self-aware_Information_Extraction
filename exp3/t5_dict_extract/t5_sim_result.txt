@@ -1,0 +1,94 @@
+NY_00191205 csv	J Higgins	prosper paris	0.0769230723
+NY_00227158 csv	William R Buck Thomas A Zanoni	william r buck thomas a zanoni	1
+NY_00227183 csv	William R Buck Thomas A Zanoni	william r buck thomas a zanoni	1
+NY_00532999 csv	T Zanoni F Jiménez	f jimenez	0.444444418
+NY_00629823 csv	N L Britton J F Cowell	n l britton	0.5
+NY_00754870 csv	Thomas R Soderstrom D P Armstrong	thomas r soderstrom	0.5757575631
+NY_00819622 csv	N L Britton B H Dutcher Stewardson Brown	n l britton stewardson brown	0.6999999881
+NY_00819627 csv	N L BRITTON F S EARLE	n l britton	0.5238095224
+NY_01334354 csv	R A E S Howard	r a e s howard	1
+NY_01334370 csv	N L Britton F S Earle Percy Wilson	percy wilson	0.3529411554
+NY_01334407 csv	D S Correll	d s correll	1
+NY_01498069 csv	Reben Sauleda	d s correll	0.1538461447
+NY_01498080 csv	N L BRITTON ARTHUR HOLLICK	n l britton	0.4230769277
+NY_01498119 csv	Bro Alain	bro alain	1
+NY_01498124 csv	Ruben Diane Sauleda	d s correll	0.1578947306
+NY_01498176 csv	N L BRITTON J F COWELL	n l britton	0.5
+NY01075760_lg csv	Richard C Harris	richard c harris	1
+NY01075761_lg csv	Richard C Harris	richard c harris	1
+NY01075762_lg csv	William R Buck	william r buck	1
+NY01075771_lg csv	William R Buck	william r buck	1
+NY01075774_lg csv	William R Buck	william r buck	1
+NY01075777_lg csv	William R Buck	william r buck	1
+NY01075779_lg csv	Richard C Harris	richard c harris	1
+NY01075787_lg csv	Richard C Harris	richard c harris	1
+NY01075789_lg csv	William R Buck	william r buck	1
+NY01075803_lg csv	H W Ravenel	richard c harris	0.1875
+NY01075813_lg csv	Richard C Harris	richard c harris	1
+NY01075815_lg csv	Richard C Harris	richard c harris	1
+NY01075819_lg csv	William R Buck	william r buck	1
+NY01075821_lg csv	Richard C Harris	richard c harris	1
+NY01075823_lg csv	R Yahr	richard c harris	0.25
+NY01075828_lg csv	Richard C Harris	richard c harris	1
+NY01075829_lg csv	Richard C Harris	richard c harris	1
+TENN-L-0000001_lg csv	W A Weber	w a weber	1
+TENN-L-0000004_lg csv	H A Sierk	h a sierk	1
+TENN-L-0000005_lg csv	W A Weber R A Anderson D D Awasthi	r a w a weber	0.2647058964
+TENN-L-0000007_lg csv	Walter Kiener	walter kiener	1
+TENN-L-0000010_lg csv	WALTER KIENER	walter kiener	1
+TENN-L-0000021_lg csv	A J Sharp	a j sharp	1
+TENN-L-0000027_lg csv	H A Sierk	h a sierk	1
+TENN-L-0000030_lg csv	A J Sharp	a j sharp h a sierk	0.4736841917
+TENN-L-0000032_lg csv	H A Sierk	h a sierk	1
+TENN-L-0000036_lg csv	H A Sierk	h a sierk	1
+TENN-L-0000042_lg csv	Dr Mrs A J Sharp Z Iwatsuki I Yoshimura	z iwatsuki i yoshimura	0.5641025603
+TENN-L-0000043_lg csv	A J Sharp	a j sharp	1
+TENN-L-0000044_lg csv	A J Sharp Z Iwatsuki	a j sharp	0.4499999881
+TENN-L-0000051_lg csv	A J Sharp	a j sharp	1
+TENN-L-0000064_lg csv	H A Sierk	h a sierk	1
+TENN-L-0000065_lg csv	A J Sharp	a j sharp	1
+TENN-L-0000074_lg csv	A J Sharp	a j sharp	1
+TENN-L-0000083_lg csv	H A Sierk	h a sierk	1
+TENN-L-0000091_lg csv	A J Sharp	a j sharp	1
+WIS-L-0011727_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0011728_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0011729_lg csv	Stephen Talbot Sandra Looman	stephen talbot sandra looman	1
+WIS-L-0011730_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0011732_lg csv	Stephen Sandra Talbot	stephen sandra talbot	1
+WIS-L-0011733_lg csv	N Grulke	n grulke	1
+WIS-L-0011736_lg csv	Stephen Talbot Sandra Looman	stephen talbot sandra looman	1
+WIS-L-0012026_lg csv	Stephen Talbot Sandra Looman	stephen talbot	0.5
+WIS-L-0012027_lg csv	Stephen Talbot Sandra Looman	stephen talbot sandra looman	1
+WIS-L-0012030_lg csv	Stephen Sandra Talbot	stephen sandra talbot	1
+WIS-L-0012034_lg csv	Stephen Sandra Talbot	stephen sandra talbot	1
+WIS-L-0012035_lg csv	Stephen Talbot Sandra Looman	sandra looman	0.4642857313
+WIS-L-0012036_lg csv	Stephen Talbot Sandra Looman	stephen talbot sandra looman	1
+WIS-L-0012037_lg csv	Stephen Talbot Sandra Looman	stephen talbot sandra looman	1
+WIS-L-0012039_lg csv	Stephen Talbot Sandra Looman	stephen talbot sandra looman	1
+WIS-L-0012040_lg csv	N Grulke	n grulke	1
+WIS-L-0012044_lg csv	Stephen Sandra Talbot	stephen sandra talbot	1
+WIS-L-0012045_lg csv	Stephen Sandra Talbot	stephen sandra talbot	1
+WIS-L-0012046_lg csv	Stephen Sandra Talbot	stephen sandra talbot	1
+WIS-L-0012048_lg csv	Stephen Sandra Talbot	stephen sandra talbot	1
+WIS-L-0012050_lg csv	Stephen S Talbot Sandra L Talbot	stephen s talbot	0.5
+WIS-L-0012051_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0012053_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0012054_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0012055_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0012057_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0012058_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0012059_lg csv	Stephen S Talbot Sandra L Talbot	stephen s talbot	0.5
+WIS-L-0012060_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0012064_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0012065_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0012067_lg csv	Stephen S Talbot Sandra L Talbot	stephen s talbot	0.5
+WIS-L-0012068_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0012069_lg csv	Stephen Sandra Talbot	stephen sandra talbot	1
+WIS-L-0012075_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0012076_lg csv	Stephen S Talbot	stephen s talbot	1
+WIS-L-0012078_lg csv	Stephen Sandra Talbot	stephen sandra talbot	1
+WIS-L-0012082_lg csv	Stephen Sandra Talbot	stephen sandra talbot	1
+WIS-L-0012083_lg csv	Stephen Sandra Talbot	stephen sandra talbot	1
+WIS-L-0012084_lg csv	Stephen Sandra Talbot	stephen sandra talbot	1
+WIS-L-0012085_lg csv	Stephen Sandra Talbot	stephen sandra talbot	1
+WIS-L-0012086_lg csv	Stephen Sandra Talbot	stephen sandra talbot	1

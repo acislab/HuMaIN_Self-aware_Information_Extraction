@@ -1,0 +1,96 @@
+NY_00191205	prosper paris
+NY_00227158	william r buck
+NY_00227158	thomas a zanoni
+NY_00227183	william r buck thomas a zanoni
+NY_00532999	f jimenez
+NY_00629823	n l britton
+NY_00754870	thomas r soderstrom
+NY_00819622	n l britton stewardson brown
+NY_00819627	n l britton
+NY_01334354	r a e s howard
+NY_01334370	percy wilson
+NY_01334407	d s correll
+NY_01498069	d s correll
+NY_01498080	n l britton
+NY_01498119	bro alain
+NY_01498124	d s correll
+NY_01498176	n l britton
+NY01075760_lg	richard c harris
+NY01075761_lg	richard c harris
+NY01075762_lg	william r buck
+NY01075771_lg	william r buck
+NY01075774_lg	william r buck
+NY01075777_lg	william r buck
+NY01075779_lg	richard c harris
+NY01075787_lg	richard c harris
+NY01075789_lg	william r buck
+NY01075803_lg	richard c harris
+NY01075813_lg	richard c harris
+NY01075815_lg	richard c harris
+NY01075819_lg	william r buck
+NY01075821_lg	richard c harris
+NY01075823_lg	richard c harris
+NY01075828_lg	richard c harris
+NY01075829_lg	richard c harris
+TENN-L-0000001_lg	w a weber
+TENN-L-0000004_lg	h a sierk
+TENN-L-0000005_lg	r a w a weber
+TENN-L-0000007_lg	walter kiener
+TENN-L-0000010_lg	walter kiener
+TENN-L-0000021_lg	a j sharp
+TENN-L-0000027_lg	h a sierk
+TENN-L-0000030_lg	a j sharp h a sierk
+TENN-L-0000032_lg	h a sierk
+TENN-L-0000036_lg	h a sierk
+TENN-L-0000042_lg	z iwatsuki i yoshimura
+TENN-L-0000043_lg	a j sharp
+TENN-L-0000044_lg	a j sharp
+TENN-L-0000051_lg	a j sharp
+TENN-L-0000064_lg	h a sierk
+TENN-L-0000065_lg	a j sharp
+TENN-L-0000074_lg	a j sharp
+TENN-L-0000083_lg	h a sierk
+TENN-L-0000091_lg	a j sharp
+WIS-L-0011727_lg	stephen s talbot
+WIS-L-0011728_lg	stephen s talbot
+WIS-L-0011729_lg	stephen talbot
+WIS-L-0011729_lg	sandra looman
+WIS-L-0011730_lg	stephen s talbot
+WIS-L-0011732_lg	stephen sandra talbot
+WIS-L-0011733_lg	n grulke
+WIS-L-0011736_lg	stephen talbot sandra looman
+WIS-L-0012026_lg	stephen talbot
+WIS-L-0012027_lg	stephen talbot sandra looman
+WIS-L-0012030_lg	stephen sandra talbot
+WIS-L-0012034_lg	stephen sandra talbot
+WIS-L-0012035_lg	sandra looman
+WIS-L-0012036_lg	stephen talbot sandra looman
+WIS-L-0012037_lg	stephen talbot sandra looman
+WIS-L-0012039_lg	stephen talbot sandra looman
+WIS-L-0012040_lg	n grulke
+WIS-L-0012044_lg	stephen sandra talbot
+WIS-L-0012045_lg	stephen sandra talbot
+WIS-L-0012046_lg	stephen sandra talbot
+WIS-L-0012048_lg	stephen sandra talbot
+WIS-L-0012050_lg	stephen s talbot
+WIS-L-0012051_lg	stephen s talbot
+WIS-L-0012053_lg	stephen s talbot
+WIS-L-0012054_lg	stephen s talbot
+WIS-L-0012055_lg	stephen s talbot
+WIS-L-0012057_lg	stephen s talbot
+WIS-L-0012058_lg	stephen s talbot
+WIS-L-0012059_lg	stephen s talbot
+WIS-L-0012060_lg	stephen s talbot
+WIS-L-0012064_lg	stephen s talbot
+WIS-L-0012065_lg	stephen s talbot
+WIS-L-0012067_lg	stephen s talbot
+WIS-L-0012068_lg	stephen s talbot
+WIS-L-0012069_lg	stephen sandra talbot
+WIS-L-0012075_lg	stephen s talbot
+WIS-L-0012076_lg	stephen s talbot
+WIS-L-0012078_lg	stephen sandra talbot
+WIS-L-0012082_lg	stephen sandra talbot
+WIS-L-0012083_lg	stephen sandra talbot
+WIS-L-0012084_lg	stephen sandra talbot
+WIS-L-0012085_lg	stephen sandra talbot
+WIS-L-0012086_lg	stephen sandra talbot

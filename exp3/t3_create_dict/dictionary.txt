@@ -1,0 +1,76 @@
+a j sharp,3
+alain h,1
+alfred e ricksecker,1
+barbara moore,1
+bro alain,1
+brother alain liogier,1
+brother leon,1
+c d macneil,1
+c wright,3
+clifford m wetmore,1
+d atha,1
+d s correll,3
+daniel atha,1
+e e gilbert,1
+e g linsley,1
+e hall,1
+e j wortley,1
+e s howard,1
+edward tuckerman,1
+f jimenez,1
+g r proctor,2
+george r cooley,1
+h a sierk,1
+harold e box,1
+i yoshimura,1
+j a shafer,1
+j g jack,1
+j g rozen,1
+j m davidson,1
+j r powers,2
+j w macswain,5
+james higgins,1
+john e rawlins,1
+jose cedeno,1
+jw macswain,1
+krombein,1
+l geiser,1
+l j k brace,1
+m a cazier,1
+m mejia,1
+m togashi,1
+m vives,1
+m wasbauer,1
+n grulke,1
+n j melo,1
+n l britton,5
+o c la france,1
+p d hurd,8
+p rude,1
+percy wilson,1
+perfa liogier,1
+prosper paris,1
+r a,1
+r e coville,3
+r f smith,1
+r garcia,1
+r lowden,1
+richard c harris,3
+roland thaxter,1
+sandra looman,1
+shirley c tucker,1
+stephen s talbot,6
+stephen talbot,0
+stephen sandra talbot,1
+steven r hill,1
+stewardson brown,3
+sue a thompson,1
+t a zanoni,1
+thomas a zanoni,1
+thomas r soderstrom,1
+w a weber,1
+w middlekauff,1
+w w jeffrey,1
+walter kiener,2
+william r buck,3
+z iwatsuki,2

@@ -1,0 +1,543 @@
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 53 diacritics
+
+real	0m0.753s
+user	0m0.724s
+sys	0m0.032s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 180 diacritics
+
+real	0m2.966s
+user	0m2.952s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.238s
+user	0m1.228s
+sys	0m0.008s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 81 diacritics
+
+real	0m0.596s
+user	0m0.580s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 101 diacritics
+
+real	0m1.626s
+user	0m1.616s
+sys	0m0.008s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 125 diacritics
+
+real	0m0.292s
+user	0m0.268s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 153 diacritics
+
+real	0m2.972s
+user	0m2.948s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 79 diacritics
+
+real	0m0.562s
+user	0m0.540s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 99 diacritics
+
+real	0m2.072s
+user	0m2.052s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 164 diacritics
+
+real	0m2.600s
+user	0m2.580s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 86 diacritics
+
+real	0m2.921s
+user	0m2.908s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 146 diacritics
+
+real	0m2.316s
+user	0m2.304s
+sys	0m0.008s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 125 diacritics
+
+real	0m1.616s
+user	0m1.604s
+sys	0m0.008s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 144 diacritics
+
+real	0m4.386s
+user	0m4.380s
+sys	0m0.008s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 242 diacritics
+
+real	0m2.765s
+user	0m2.744s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 106 diacritics
+
+real	0m2.201s
+user	0m2.192s
+sys	0m0.008s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 158 diacritics
+
+real	0m1.493s
+user	0m1.472s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 130 diacritics
+
+real	0m6.912s
+user	0m6.900s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 170 diacritics
+
+real	0m4.791s
+user	0m4.768s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 174 diacritics
+
+real	0m4.275s
+user	0m4.260s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 196 diacritics
+
+real	0m5.362s
+user	0m5.344s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 147 diacritics
+
+real	0m2.695s
+user	0m2.672s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 76 diacritics
+
+real	0m0.383s
+user	0m0.372s
+sys	0m0.008s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 157 diacritics
+
+real	0m1.964s
+user	0m1.948s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 106 diacritics
+
+real	0m2.014s
+user	0m1.996s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 107 diacritics
+
+real	0m3.413s
+user	0m3.404s
+sys	0m0.008s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 148 diacritics
+
+real	0m2.530s
+user	0m2.516s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 186 diacritics
+
+real	0m2.126s
+user	0m2.108s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 96 diacritics
+
+real	0m0.855s
+user	0m0.828s
+sys	0m0.024s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.214s
+user	0m1.196s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 42 diacritics
+
+real	0m1.023s
+user	0m1.000s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m0.263s
+user	0m0.248s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 54 diacritics
+
+real	0m0.474s
+user	0m0.464s
+sys	0m0.008s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 88 diacritics
+
+real	0m1.364s
+user	0m1.340s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.063s
+user	0m2.024s
+sys	0m0.036s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.784s
+user	0m2.736s
+sys	0m0.044s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 96 diacritics
+
+real	0m2.777s
+user	0m2.748s
+sys	0m0.028s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m3.270s
+user	0m3.244s
+sys	0m0.024s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.225s
+user	0m2.192s
+sys	0m0.032s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.014s
+user	0m1.968s
+sys	0m0.044s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.575s
+user	0m1.536s
+sys	0m0.036s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.332s
+user	0m2.304s
+sys	0m0.024s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.377s
+user	0m2.340s
+sys	0m0.036s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.662s
+user	0m2.640s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.430s
+user	0m2.400s
+sys	0m0.028s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.993s
+user	0m1.952s
+sys	0m0.040s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m3.082s
+user	0m3.056s
+sys	0m0.024s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 4 diacritics
+
+real	0m0.522s
+user	0m0.500s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 22 diacritics
+
+real	0m1.241s
+user	0m1.220s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 35 diacritics
+
+real	0m1.038s
+user	0m1.016s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 1 diacritics
+
+real	0m1.148s
+user	0m1.140s
+sys	0m0.004s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.378s
+user	0m2.364s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m0.873s
+user	0m0.860s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Error in boxClipToRectangle: box outside rectangle
+Error in pixScanForForeground: invalid box
+
+real	0m0.530s
+user	0m0.512s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m0.895s
+user	0m0.880s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 23 diacritics
+
+real	0m0.918s
+user	0m0.900s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m0.536s
+user	0m0.524s
+sys	0m0.008s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m0.881s
+user	0m0.864s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 1 diacritics
+
+real	0m0.627s
+user	0m0.604s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.417s
+user	0m2.388s
+sys	0m0.028s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.978s
+user	0m2.948s
+sys	0m0.028s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.483s
+user	0m2.448s
+sys	0m0.032s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.595s
+user	0m2.576s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.298s
+user	0m2.268s
+sys	0m0.028s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m3.383s
+user	0m3.356s
+sys	0m0.024s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.313s
+user	0m2.284s
+sys	0m0.028s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.342s
+user	0m2.316s
+sys	0m0.024s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m7.701s
+user	0m7.668s
+sys	0m0.036s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 220 diacritics
+
+real	0m3.950s
+user	0m3.912s
+sys	0m0.036s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m3.546s
+user	0m3.520s
+sys	0m0.024s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.342s
+user	0m2.312s
+sys	0m0.028s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.344s
+user	0m2.300s
+sys	0m0.040s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.204s
+user	0m2.176s
+sys	0m0.028s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.727s
+user	0m1.684s
+sys	0m0.040s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+Detected 185 diacritics
+
+real	0m3.822s
+user	0m3.792s
+sys	0m0.028s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.913s
+user	0m1.884s
+sys	0m0.028s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m4.029s
+user	0m3.992s
+sys	0m0.036s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.713s
+user	0m2.696s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.869s
+user	0m2.852s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.091s
+user	0m2.076s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.003s
+user	0m0.996s
+sys	0m0.008s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m0.555s
+user	0m0.536s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.049s
+user	0m2.040s
+sys	0m0.008s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m0.665s
+user	0m0.648s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.144s
+user	0m1.124s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m0.614s
+user	0m0.600s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m0.970s
+user	0m0.956s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.056s
+user	0m1.040s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.067s
+user	0m1.056s
+sys	0m0.008s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.834s
+user	0m1.824s
+sys	0m0.008s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m0.790s
+user	0m0.776s
+sys	0m0.012s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m0.489s
+user	0m0.464s
+sys	0m0.024s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.667s
+user	0m1.632s
+sys	0m0.032s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m0.848s
+user	0m0.828s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.224s
+user	0m1.208s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.118s
+user	0m1.096s
+sys	0m0.020s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m0.559s
+user	0m0.532s
+sys	0m0.024s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m1.056s
+user	0m1.040s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m2.591s
+user	0m2.572s
+sys	0m0.016s
+Tesseract Open Source OCR Engine v3.04.01 with Leptonica
+
+real	0m0.831s
+user	0m0.800s
+sys	0m0.028s
+

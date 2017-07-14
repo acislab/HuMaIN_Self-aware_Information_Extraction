@@ -1,0 +1,100 @@
+EMEC609488_Cerceris_compacta.jpg	p d hurd	p d hurd	1
+EMEC609504_Cerceris_compacta.jpg	p d hurd	p d hurd	1
+EMEC609515_Cerceris_compacta.jpg			1
+EMEC609523_Cerceris_compacta.jpg	j w macswain	j w macswain	1
+EMEC609529_Cerceris_compacta.jpg	snelling	snilhing	0.75
+EMEC609543_Cerceris_compacta.jpg	e e gilbert,c d macneil	e e gilbert,c d macneil	1
+EMEC609600_Cerceris_compacta.jpg	r e coville	r e coville	1
+EMEC609601_Cerceris_compacta.jpg	j r powers	j r powers	1
+EMEC609612_Cerceris_compacta.jpg	p d hurd	p d hurd	1
+EMEC609623_Cerceris_compacta.jpg	p d hurd	p d hurd	1
+EMEC609639_Cerceris_compar_compar.jpg	krombein	krombein	1
+EMEC609675_Cerceris_conifrons.jpg	j w macswain	j w macswain	1
+EMEC609686_Cerceris_conifrons.jpg	r e coville	r e coville	1
+EMEC609696_Cerceris_conifrons.jpg	p d hurd	p d hurd	1
+EMEC609705_Cerceris_conifrons.jpg	j m davidson,m a cazier	j m davidson,m a cazier	1
+EMEC609711_Cerceris_convergens.jpg	p d hurd	p d hurd	1
+EMEC609719_Cerceris_convergens.jpg			1
+EMEC609722_Cerceris_convergens.jpg	j w macswain	j w macswain	1
+EMEC609740_Cerceris_convergens.jpg	j g rozen	j g rozen	1
+EMEC609764_Cerceris_convergens.jpg	j w macswain	j w macswain	1
+EMEC609785_Cerceris_convergens.jpg	e g linsley		0
+EMEC609803_Cerceris_convergens.jpg	o c la france	o c la france	1
+EMEC609826_Cerceris_convergens.jpg	m wasbauer	m wasbauer	1
+EMEC609828_Cerceris_convergens.jpg	p d hurd	p d hurd	1
+EMEC609879_Cerceris_convergens.jpg	p d hurd,ae&mm,michelbacher		0
+EMEC609880_Cerceris_convergens.jpg	r e coville	r e coville	1
+EMEC609882_Cerceris_convergens.jpg	p rude	p rude	1
+EMEC609885_Cerceris_convergens.jpg	j w macswain	j w macswain	1
+EMEC609900_Stigmus_sp.jpg	j r powers	j r powers	1
+EMEC609903_Stigmus_sp.jpg	s szerlip,r coville,j powell		0
+EMEC609926_Stigmus_sp.jpg	e schlinger		0
+EMEC609939_Stigmus_sp.jpg	w middlekauff	w middlekauff	1
+EMEC609987_Aphilanthops_foxi.jpg	p d hurd	p d hurd	1
+EMEC609997_Aphilanthops_foxi.jpg	e g linsley,jwmacswain,r f smith	e g linsley,jw macswain,r f smith	0.9696969688
+NY01075765_lg.jpg	roland thaxter	roland thaxter	1
+NY01075766_lg.jpg		r t wilce	0
+NY01075768_lg.jpg	william r buck	william r buck	1
+NY01075775_lg.jpg	w a weber	w a weber	1
+NY01075790_lg.jpg	shirley c tucker	shirley c tucker	1
+NY01075792_lg.jpg	clifford m wetmore	clifford m wetmore	1
+NY01075806_lg.jpg	g t johnson		0
+NY01075818_lg.jpg	william r buck	william r buck	1
+NY01075822_lg.jpg	william r buck	william r buck	1
+NY01075827_lg.jpg	richard c harris	richard c harris	1
+NY01075831_lg.jpg	richard c harris	richard c harris	1
+NY01075837_lg.jpg	richard c harris	richard c harris	1
+NY_00020326.jpg	t a zanoni,d atha & m vives	t a zanoni,d atha & m vives	1
+NY_00040685.jpg	daniel atha,thomas a zanoni,josé cedeño	daniel atha with thomas a zanoni,jose cedeno	0.8181818128
+NY_00040919.jpg	james higgins,prosper paris	james higgins with prosper paris	0.8125
+NY_00198945.jpg	stewardson brown,n l britton,e j wortley	stewardson brown,n l britton,e j wortley	1
+NY_00198993.jpg	j g jack	j g jack	1
+NY_00413475.jpg	m mejia,t zanoni	m mejia,t zanoni	1
+NY_00413589.jpg	steven r hill	steven r hill	1
+NY_00499439.jpg	stewardson brown,n l britton	stewardson brown,n l britton	1
+NY_00617450.jpg	r a & e s howard	r a & e s howard	1
+NY_00641566.jpg	thomas r soderstrom	thomas r soderstrom	1
+NY_00754868.jpg	g j breckon,m breckon		0
+NY_00754872.jpg	alain h & perfa liogier & n j melo 	alain h & perfa liogier & n j melo	0.9714285713
+NY_00819601.jpg	j a shafer	j a shafer	1
+NY_01334326.jpg	n l britton,l j k brace	n l britton,l j k brace	1
+NY_01334334.jpg	t zanoni	t zanoni	1
+NY_01334374.jpg	george r cooley	george r cooley	1
+NY_01334391.jpg	bro alain	bro alain	1
+NY_01334433.jpg	c wright	c wright	1
+NY_01334438.jpg	r garcía,f jimenez	r garcia,f jimenez	0.944444444
+NY_01334464.jpg	alfred e ricksecker	alfred e ricksecker	1
+NY_01334493.jpg	r lowden	r lowden	1
+NY_01334508.jpg	brother alain liogier	brother alain liogier	1
+NY_01497987.jpg	bro león		0
+NY_01498039.jpg	harold e box	harold e box	1
+NY_01498043.jpg	stewardson brown,n l britton	stewardson brown,n l britton	1
+NY_01498065.jpg	d s correll & g r proctor	d s correll & g r proctor	1
+NY_01498090.jpg	d s correll	d s correll	1
+NY_01498103.jpg	n l britton,percy wilson,brother leon	n l britton,percy wilson,brother leon	1
+NY_01498113.jpg	c wright	c wright	1
+NY_01498139.jpg	c wright	c wright	1
+NY_01498155.jpg	h h & g w smith comm f d godman,f r s 	h h & g w smith	0.3947368264
+NY_01498166.jpg	sue a thompson,john e rawlins	sue a thompson and john e rawlins	0.848484844
+NY_01498191.jpg	d s correll & g r proctor	d s correll & g r proctor	1
+TENN-L-0000013_lg.jpg	m togashi	m togashi	1
+TENN-L-0000019_lg.jpg	a j sharp	a j sharp	1
+TENN-L-0000028_lg.jpg	h a sierk	h a sierk	1
+TENN-L-0000035_lg.jpg	dr & mrs a j sharp,z iwatsuki & i yoshimura	dr & mrs a j sharp,z iwatsuki & i yoshimura	1
+TENN-L-0000047_lg.jpg	a j sharp and z iwatsuki	a j sharp and z iwatsuki	1
+TENN-L-0000057_lg.jpg	donald richards and francis drouet		0
+TENN-L-0000058_lg.jpg	e hall	e hall	1
+TENN-L-0000061_lg.jpg	w w jeffrey	w w jeffrey	1
+TENN-L-0000063_lg.jpg	edward tuckerman	edward tuckerman	1
+TENN-L-0000072_lg.jpg	walter kiener	walter kiener	1
+TENN-L-0000084_lg.jpg	barbara moore	barbara moore	1
+TENN-L-0000089_lg.jpg	walter kiener	walter kiener	1
+WIS-L-0011734_lg.jpg	stephen s talbot	stephen s talbot	1
+WIS-L-0012025_lg.jpg	stephen & sandra talbot	stephen & sandra talbot	1
+WIS-L-0012041_lg.jpg	stephen s talbot	stephen s talbot	1
+WIS-L-0012052_lg.jpg	stephen s talbot	stephen s talbot	1
+WIS-L-0012056_lg.jpg	stephen s talbot	stephen s talbot	1
+WIS-L-0012062_lg.jpg	stephen s talbot	stephen s talbot	1
+WIS-L-0012070_lg.jpg	stephen s talbot	stephen s talbot	1
+WIS-L-0012071_lg.jpg	l geiser	l geiser	1
+WIS-L-0012077_lg.jpg	n grulke	n grulke	1

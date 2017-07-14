@@ -1,0 +1,64 @@
+EMEC609488_Cerceris_compacta.txt,careeris,1,3
+EMEC609504_Cerceris_compacta.txt,ceris,1,3
+EMEC609504_Cerceris_compacta.txt,cerceris,1,3
+EMEC609639_Cerceris_compar_compar.txt,iiiiiiiiiiiiiiiiiii iiiiiiiii,2,4
+EMEC609705_Cerceris_conifrons.txt,cerceris,1,3
+EMEC609722_Cerceris_convergens.txt,erceris,1,3
+EMEC609740_Cerceris_convergens.txt,iiiiiiziiiiiiiiiiiiiiiiiiiiiii iiiiiiii,2,4
+EMEC609785_Cerceris_convergens.txt,cerceris,1,3
+EMEC609803_Cerceris_convergens.txt,cerceris,1,3
+NY_00020326.txt,oleaceae forestiera,2,5
+NY_00040685.txt,oleaceae jasminum,2,5
+NY_00040919.txt,sapotaceae hanilkara,2,5
+NY_00040919.txt,paris,1,3
+NY_00413475.txt,oleaceae,1,3
+NY_00413475.txt,macoris,1,3
+NY_00413475.txt,macoris,1,3
+NY_00413589.txt,myrlophyllum aquaticum,2,4
+NY_00413589.txt,haloragaceae,1,3
+NY_00499439.txt,philadelphia explora,2,4
+NY_00641566.txt,gramineae bambusa,2,4
+NY_00754868.txt,poaceae bambusa,2,4
+NY01075765_lg.txt,harris,1,3
+NY01075768_lg.txt,harris,1,3
+NY01075775_lg.txt,harris,1,3
+NY01075792_lg.txt,arthopyrenia cinchonae,2,4
+NY01075806_lg.txt,arthogxrenia cinchonae,2,4
+NY01075818_lg.txt,arthopyrenia cinchonae,2,4
+NY01075822_lg.txt,arthopyrenia cinchonae,2,4
+NY01075827_lg.txt,harris,1,3
+NY01075831_lg.txt,arthobyrenia cinchonae,2,4
+NY01075831_lg.txt,harris,1,3
+NY01075837_lg.txt,harris,1,3
+NY_01334334.txt,scrophulariaceae enchnera,2,5
+NY_01334374.txt,capraria biflora,2,4
+NY_01334391.txt,capraria biflora,2,4
+NY_01334433.txt,capraxia biflora,2,4
+NY_01334438.txt,capraria biflora,2,4
+NY_01334438.txt,scrophulariaceae capraria,2,5
+NY_01334438.txt,biflora llerbécea,2,4
+NY_01334464.txt,capraria biflora,2,4
+NY_01334464.txt,capraria biﬂora,2,4
+NY_01334508.txt,lindernia crustacea,2,4
+NY_01334508.txt,lindernia crustacea,2,4
+NY_01498155.txt,herbarlum queumbia,2,4
+NY_01498155.txt,spigclia anthclmia,2,4
+NY_01498166.txt,mucia loganiaceae,2,5
+NY_01498166.txt,sgigelia anthalmia,2,4
+NY_01498191.txt,spigclia anthclmia,2,4
+NY_01498191.txt,spigelia untholmia,2,4
+TENN-L-0000028_lg.txt,actinogxra mﬂhlenbergii,2,4
+TENN-L-0000057_lg.txt,alectoria fremontii,2,4
+TENN-L-0000058_lg.txt,reliquiae tuckermanianae,2,4
+TENN-L-0000063_lg.txt,reliquiae tuckermanianae,2,4
+WIS-L-0011734_lg.txt,vaccinium uliginosum,2,4
+WIS-L-0012041_lg.txt,herbarium flora,2,4
+WIS-L-0012052_lg.txt,herbarium flora,2,4
+WIS-L-0012052_lg.txt,vaccinium uliginosum,2,4
+WIS-L-0012056_lg.txt,herbarium flora,2,4
+WIS-L-0012056_lg.txt,vaccinium uliginosum,2,4
+WIS-L-0012056_lg.txt,idaea pleurozium,2,4
+WIS-L-0012070_lg.txt,herbarium flora,2,4
+WIS-L-0012071_lg.txt,horridum circaea,2,4
+WIS-L-0012071_lg.txt,alpina dryopteris,2,4
+WIS-L-0012077_lg.txt,erithorum vaginatum,2,4
